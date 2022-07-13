@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sr-Notes/static/css/main.f1360a76.css",
+    "main.js": "/Sr-Notes/static/js/main.1a3ab6c5.js",
+    "index.html": "/Sr-Notes/index.html",
+    "main.f1360a76.css.map": "/Sr-Notes/static/css/main.f1360a76.css.map",
+    "main.1a3ab6c5.js.map": "/Sr-Notes/static/js/main.1a3ab6c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1360a76.css",
+    "static/js/main.1a3ab6c5.js"
+  ]
+}
